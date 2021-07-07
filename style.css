@@ -1,0 +1,107 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+/* home banner area*/
+.homebanner-area{
+  padding: 10px;
+  color: #0B0E26;
+}
+
+.entry-message{
+  display: flex;
+  justify-content: center;
+  font-family: 'Pacifico', cursive;
+  color: #0B0E26;
+}
+
+.detailation{
+  display: flex;
+  justify-content: center;
+  font-family: 'Pacifico', cursive;
+  color: #0B0E26;
+  font-size: 2.5rem;
+}
+
+.go-through{
+  display: flex;
+  justify-content: center;
+  font-family: 'Pacifico', cursive;
+  color: #0B0E26;
+}
+
+.introduction{
+  display: flex;
+  justify-content: center;
+  font-family: 'Pacifico', cursive;
+  color: #0B0E26;
+}
+
+.specialization{
+  display: flex;
+  justify-content: center;
+  font-family: 'Pacifico', cursive;
+  color: #0B0E26;
+}
+
+.picture{
+  display: flex;
+  justify-content: center;
+}
+
+/* message area*/
+.message{
+  background-color: #0B0E26;
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+  padding: 30px;
+}
+
+.message-head{
+  display: flex;
+  justify-content: center;
+}
+
+.message-bottom{
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+/* carousel area -- container */
+.container{
+  padding: 10px;
+}
+
+.heading{
+  font-family: 'Pacifico', cursive;
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  color: #0B0E26;
+}
+
+img{
+  border-radius: 6px;
+}
+
+/* footer */
+.footer-area{
+  background-color: #0B0E26;
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+  padding: 15px;
+}
+
+.footer-head{
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.footer-bottom{
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+}
